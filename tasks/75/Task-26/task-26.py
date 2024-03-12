@@ -21,3 +21,4 @@ class Solution:
                 currentString += char
         
         return currentString
+
